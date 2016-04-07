@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: b3631294b733dab47a16a92cb993fce6
+timeCreated: 1457997320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MiniExplosao01
+    21300002: MiniExplosao02
+    21300004: MiniExplosao03
+    21300006: ExplosaoA01
+    21300008: ExplosaoA02
+    21300010: ExplosaoA03
+    21300012: ExplosaoA04
+    21300014: ExplosaoA05
+    21300016: ExplosaoA06
+    21300018: ExplosaoA07
+    21300020: ExplosaoA08
+    21300022: ExplosaoA09
+    21300024: ExplosaoA10
+    21300026: ExplosaoA11
+    21300028: ExplosaoA12
+    21300030: ExplosaoA13
+    21300032: ExplosaoA14
+    21300034: ExplosaoA15
+    21300036: ExplosaoA16
+    21300038: ExplosaoB01
+    21300040: ExplosaoB02
+    21300042: ExplosaoB03
+    21300044: ExplosaoB04
+    21300046: ExplosaoB05
+    21300048: ExplosaoB06
+    21300050: ExplosaoB07
+    21300052: ExplosaoB08
+    21300054: ExplosaoB09
+    21300056: ExplosaoB10
+    21300058: ExplosaoB11
+    21300060: ExplosaoB13
+    21300062: ExplosaoB14
+    21300064: ExplosaoC01
+    21300066: ExplosaoC02
+    21300068: ExplosaoC03
+    21300070: ExplosaoC04
+    21300072: ExplosaoC05
+    21300074: ExplosaoC06
+    21300076: ExplosaoC07
+    21300078: ExplosaoC08
+    21300080: ExplosaoC09
+    21300082: ExplosaoC10
+    21300084: ExplosaoC11
+    21300086: ExplosaoC12
+    21300088: ExplosaoC13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MiniExplosao01
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MiniExplosao02
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MiniExplosao03
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 4
+        height: 8
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA02
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 175
+        width: 4
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA03
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 174
+        width: 4
+        height: 13
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA04
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 174
+        width: 5
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA05
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 174
+        width: 6
+        height: 17
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA06
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 174
+        width: 7
+        height: 18
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA07
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 9
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA08
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 173
+        width: 11
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA09
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 174
+        width: 11
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 11
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 175
+        width: 12
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 175
+        width: 12
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 11
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 11
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 11
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoA16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 7
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 4
+        height: 6
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB02
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 94
+        width: 6
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB03
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 9
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB04
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 10
+        height: 17
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB05
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 11
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB06
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 11
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB07
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 12
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB08
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 12
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB09
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 87
+        width: 12
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 87
+        width: 12
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 87
+        width: 12
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 87
+        width: 12
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoB14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 12
+        height: 24
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 2
+        height: 5
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC02
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 4
+        height: 10
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC03
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 63
+        width: 7
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC04
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 62
+        width: 8
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC05
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 10
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC06
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 10
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC07
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 9
+        height: 17
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC08
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 9
+        height: 19
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC09
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 60
+        width: 10
+        height: 21
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 10
+        height: 21
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 11
+        height: 22
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 59
+        width: 10
+        height: 22
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosaoC13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 11
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
